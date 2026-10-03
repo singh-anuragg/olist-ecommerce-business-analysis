@@ -39,7 +39,7 @@ The objective of this project is to use transactional e-commerce data to identif
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool       | Purpose                                      |
 | ---------- | -------------------------------------------- |
@@ -215,6 +215,5 @@ Execute the SQL files inside the `/sql` folder.
 **Anurag Singh**
 
 B.Tech — Computer Science & Engineering
-Machine Learning Specialization
 
 
